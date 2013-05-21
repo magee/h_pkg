@@ -1,0 +1,34 @@
+{
+  "name": "hypothesis",
+  "version": "v0.0.6",
+  "description": "Hypothes.is brings community peer review to The Internet. It is a web application which enables rich annotation of web content.",
+  "homepage": "http://http://hypothes.is//",
+  "contributors": [
+    "Dan Whaley, Founder",
+    "Randall Leeds, Lead Developer",
+    "Peter Brantley, Director of Scholarly Communication",
+    "Kristof Csillag, Developer",
+    "Gergely Ujvari, Developer",
+    "Jake Hartnell, Intern, Summer 2013"
+  ],
+  "keywords": [
+    "annotation"
+  ],
+  "main": "./lib/hypothesis",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "meteor": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hypothesis/h.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hypothesis/h/issues"
+  },
+  "licenses" : [
+    { "type" : " 2-Clause BSD License" }
+  ]
+}
